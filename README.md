@@ -1,2 +1,6 @@
 # hello-world
-第一次学习GitHub！
+
+I am human!
+
+I want to learn programming.
+Because i believe in English + Computer Skills = Freedom.
